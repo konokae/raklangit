@@ -1,0 +1,4 @@
+[
+  { "id": 1, "title": "Anti Badai Tiktok", "description": "Anti badai tiktok adalah ...", "material": "", "category": "Social Media", "thumbnail": "https://cdn1.iconfinder.com/data/icons/office-and-internet-3/49/275-512.png", "price": 75000 },
+  { "id": 2, "title": "CSS Mastery", "description": "Style your web pages beautifully", "material": "<h3>CSS Mastery</h3><p>Sample material.</p>", "category": "Web Design", "thumbnail": "https://cdn2.iconfinder.com/data/icons/design-2-3/49/93-512.png", "price": 50000 }
+]
