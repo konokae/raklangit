@@ -1,5 +1,68 @@
 [
-  { "id": 8, "course_id": 1, "title": "Pengenalan HTML", "content": "<p>HTML singkatan...</p>" },
-  { "id": 9, "course_id": 1, "title": "Tag Dasar HTML", "content": "<p>Tag dasar...</p>" },
-  { "id": 11, "course_id": 2, "title": "Pengenalan CSS", "content": "<p>CSS digunakan...</p>" }
-]
+    {
+        "id": "8",
+        "course_id": "1",
+        "title": "Pengenalan HTML",
+        "content": "<p>HTML adalah singkatan dari HyperText Markup Language. Digunakan untuk membuat struktur dasar web.<\/p>"
+    },
+    {
+        "id": "9",
+        "course_id": "1",
+        "title": "Tag Dasar HTML",
+        "content": "<p>Tag dasar meliputi &lt;html&gt;, &lt;head&gt;, &lt;body&gt;.<\/p>"
+    },
+    {
+        "id": "10",
+        "course_id": "1",
+        "title": "Membuat Halaman Pertama",
+        "content": "<p>Gunakan tag &lt;h1&gt;, &lt;p&gt;, &lt;a&gt; untuk konten dasar.<\/p>"
+    },
+    {
+        "id": "11",
+        "course_id": "2",
+        "title": "Pengenalan CSS",
+        "content": "<p>CSS (Cascading Style Sheets) digunakan untuk memperindah tampilan halaman web.<\/p>"
+    },
+    {
+        "id": "12",
+        "course_id": "2",
+        "title": "Selector & Properti",
+        "content": "<p>Selector digunakan untuk memilih elemen HTML, lalu diberikan properti seperti color, font-size.<\/p>"
+    },
+    {
+        "id": "13",
+        "course_id": "2",
+        "title": "Layout dengan Flexbox",
+        "content": "<p>Flexbox memudahkan membuat layout responsif dengan sedikit kode.<\/p>"
+    },
+    {
+        "id": "14",
+        "course_id": "3",
+        "title": "Pengenalan JavaScript",
+        "content": "<p>JavaScript membuat web lebih interaktif.<\/p>"
+    },
+    {
+        "id": "15",
+        "course_id": "3",
+        "title": "Variabel & Tipe Data",
+        "content": "<p>Gunakan var, let, const untuk variabel. Tipe data: string, number, boolean, object.<\/p>"
+    },
+    {
+        "id": "16",
+        "course_id": "3",
+        "title": "Fungsi Dasar",
+        "content": "<p>Fungsi digunakan untuk mengelompokkan logika agar dapat dipanggil ulang.<\/p>"
+    },
+    {
+        "id": "32",
+        "course_id": "1",
+        "title": "Test Lesson",
+        "content": "<p>Isi test lesson disini oke<\/p>"
+    },
+    {
+        "id": "33",
+        "course_id": "4",
+        "title": "Satu",
+        "content": "<p>Ok, disini saty<\/p>"
+    }
+]  
