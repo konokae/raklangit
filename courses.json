@@ -1,4 +1,47 @@
 [
-  { "id": 1, "title": "Anti Badai Tiktok", "description": "Anti badai tiktok adalah ...", "material": "", "category": "Social Media", "thumbnail": "https://cdn1.iconfinder.com/data/icons/office-and-internet-3/49/275-512.png", "price": 75000 },
-  { "id": 2, "title": "CSS Mastery", "description": "Style your web pages beautifully", "material": "<h3>CSS Mastery</h3><p>Sample material.</p>", "category": "Web Design", "thumbnail": "https://cdn2.iconfinder.com/data/icons/design-2-3/49/93-512.png", "price": 50000 }
-]
+    {
+        "id": "1",
+        "title": "Anti Badai Tiktok",
+        "description": "Anti badai tiktok adalah ...",
+        "material": "",
+        "category": "Social Media",
+        "thumbnail": "https:\/\/cdn1.iconfinder.com\/data\/icons\/office-and-internet-3\/49\/275-512.png",
+        "price": "75000.00"
+    },
+    {
+        "id": "2",
+        "title": "CSS Mastery",
+        "description": "Style your web pages beautifully",
+        "material": "<h3>CSS Mastery<\/h3><p>This is sample material about CSS.<\/p>",
+        "category": "Web Design",
+        "thumbnail": "https:\/\/cdn2.iconfinder.com\/data\/icons\/design-2-3\/49\/93-512.png",
+        "price": "50000.00"
+    },
+    {
+        "id": "3",
+        "title": "JavaScript Intro",
+        "description": "Make your web interactive",
+        "material": "<h3>JS Intro<\/h3><p>This is sample material about JavaScript.<\/p>",
+        "category": "Programming",
+        "thumbnail": "https:\/\/cdn2.iconfinder.com\/data\/icons\/design-2-3\/49\/66-512.png",
+        "price": "125000.00"
+    },
+    {
+        "id": "4",
+        "title": "Simple Toko Online",
+        "description": "Free",
+        "material": "",
+        "category": "E-Commerce",
+        "thumbnail": "https:\/\/cdn2.iconfinder.com\/data\/icons\/design-2-3\/49\/66-512.png",
+        "price": "80000.00"
+    },
+    {
+        "id": "5",
+        "title": "Template Juala Online",
+        "description": "Lengkap",
+        "material": null,
+        "category": "General",
+        "thumbnail": "https:\/\/cdn2.iconfinder.com\/data\/icons\/design-2-3\/49\/66-512.png",
+        "price": "520000.00"
+    }
+]   
