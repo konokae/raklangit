@@ -1,0 +1,5 @@
+[
+  { "id": 8, "course_id": 1, "title": "Pengenalan HTML", "content": "<p>HTML singkatan...</p>" },
+  { "id": 9, "course_id": 1, "title": "Tag Dasar HTML", "content": "<p>Tag dasar...</p>" },
+  { "id": 11, "course_id": 2, "title": "Pengenalan CSS", "content": "<p>CSS digunakan...</p>" }
+]
