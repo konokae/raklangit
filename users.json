@@ -1,5 +1,120 @@
 [
-  { "id": 1, "username": "admin", "password": "123", "role": "admin" },
-  { "id": 2, "username": "budi", "password": "123", "role": "student" },
-  { "id": 3, "username": "siti", "password": "siti123", "role": "student" }
+    {
+        "id": "1",
+        "username": "admin",
+        "password": "123",
+        "role": "admin",
+        "courses": []
+    },
+    {
+        "id": "2",
+        "username": "budi",
+        "password": "123",
+        "role": "student",
+        "courses": [
+            {
+                "id": "1",
+                "title": "Anti Badai Tiktok"
+            },
+            {
+                "id": "2",
+                "title": "CSS Mastery"
+            },
+            {
+                "id": "3",
+                "title": "JavaScript Intro"
+            },
+            {
+                "id": "4",
+                "title": "Simple Toko Online"
+            },
+            {
+                "id": "5",
+                "title": "Template Juala Online"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "username": "siti",
+        "password": "siti123",
+        "role": "student",
+        "courses": [
+            {
+                "id": "3",
+                "title": "JavaScript Intro"
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "username": "andi",
+        "password": "andi123",
+        "role": "student",
+        "courses": []
+    },
+    {
+        "id": "5",
+        "username": "anton",
+        "password": "123",
+        "role": "student",
+        "courses": [
+            {
+                "id": "1",
+                "title": "Anti Badai Tiktok"
+            }
+        ]
+    },
+    {
+        "id": "9",
+        "username": "Toni",
+        "password": "123",
+        "role": "student",
+        "courses": [
+            {
+                "id": "1",
+                "title": "Anti Badai Tiktok"
+            },
+            {
+                "id": "2",
+                "title": "CSS Mastery"
+            },
+            {
+                "id": "3",
+                "title": "JavaScript Intro"
+            },
+            {
+                "id": "4",
+                "title": "Simple Toko Online"
+            }
+        ]
+    },
+    {
+        "id": "10",
+        "username": "riri",
+        "password": "456",
+        "role": "student",
+        "courses": [
+            {
+                "id": "4",
+                "title": "Simple Toko Online"
+            }
+        ]
+    },
+    {
+        "id": "11",
+        "username": "antoni",
+        "password": "123",
+        "role": "student",
+        "courses": [
+            {
+                "id": "1",
+                "title": "Anti Badai Tiktok"
+            },
+            {
+                "id": "2",
+                "title": "CSS Mastery"
+            }
+        ]
+    }
 ]
